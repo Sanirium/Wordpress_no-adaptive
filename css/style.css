@@ -279,10 +279,6 @@ h2.tittle {
     border-radius: 100%;
 }
 
-.finish .finish_wrapper .finish_item .finish_round .finish_icon {
-    flex: 0 0 auto;
-}
-
 .finish .finish_wrapper .finish_item .finish_descr {
     margin-top: 25px;
     text-align: center;
@@ -346,6 +342,44 @@ h2.tittle {
     margin: 60px auto 0 auto;
 }
 
+
+/* Section first-webinar */
+.first {
+    min-height: 515px;
+    background-color: #fff;
+    padding: 82px 0 65px 0;
+}
+
+.first .first_img {
+    display: block;
+    margin: 0 auto;
+}
+
+.first .first_info {
+    margin-top: 40px;
+    font-size: 30px;
+    font-weight: 400;
+    color: #252525;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.first .first_date {
+    margin-top: 25px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #299cbd;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.first .first_sign {
+    margin-top: 25px;
+    font-size: 23px;
+    font-weight: 500;
+    color: #4a4a4a;
+    text-align: center;
+}
 
 
 /* footer */
